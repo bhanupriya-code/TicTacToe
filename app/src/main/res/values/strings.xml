@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="heading">Play Tic-Tac-Toe</string>
+    <string name="grid">Our main grid</string>
+    <string name="imag">imag0</string>
+    <string name="imag1">imag1</string>
+    <string name="imag4">imag4</string>
+    <string name="imag2">imag2</string>
+    <string name="imag3">imag3</string>
+    <string name="imag5">imag5</string>
+    <string name="imag6">imag6</string>
+    <string name="imag7">imag7</string>
+    <string name="imag8">imag8</string>
+
+</resources>
